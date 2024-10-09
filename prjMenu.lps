@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="prjMenu.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="menuprincipal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MenuPrincipalF"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MenuPrincipal"/>
+        <TopLine Value="13"/>
+        <CursorPos X="16" Y="39"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="xcadpai.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="xCadPaiF"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="xCadPai"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="52"/>
+        <CursorPos Y="63"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="cadcliente.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="cadClienteF"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="cadCliente"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="menuprincipal.pas"/>
+        <Caret Line="5" Column="99"/>
+      </Position>
+      <Position>
+        <Filename Value="xcadpai.pas"/>
+        <Caret Line="42" Column="15" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="xcadpai.pas"/>
+        <Caret Line="41" Column="45" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="xcadpai.pas"/>
+        <Caret Line="46" Column="31" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="xcadpai.pas"/>
+        <Caret Line="47" Column="31" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="xcadpai.pas"/>
+        <Caret Line="48" Column="31" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="xcadpai.pas"/>
+        <Caret Line="49" Column="31" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="xcadpai.pas"/>
+        <Caret Line="50" Column="31" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="xcadpai.pas"/>
+        <Caret Line="51" Column="31" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="xcadpai.pas"/>
+        <Caret Line="50" Column="31" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="xcadpai.pas"/>
+        <Caret Line="49" Column="31" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="xcadpai.pas"/>
+        <Caret Line="48" Column="31" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="xcadpai.pas"/>
+        <Caret Line="47" Column="31" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="xcadpai.pas"/>
+        <Caret Line="46" Column="31" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="xcadpai.pas"/>
+        <Caret Line="57" Column="31" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="xcadpai.pas"/>
+        <Caret Line="53" Column="3" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="xcadpai.pas"/>
+        <Caret Line="63" Column="41" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="xcadpai.pas"/>
+        <Caret Line="54" Column="40" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="xcadpai.pas"/>
+        <Caret Line="60" Column="40" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="xcadpai.pas"/>
+        <Caret Line="71" Column="40" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="xcadpai.pas"/>
+        <Caret Line="56" Column="9" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="menuprincipal.pas"/>
+        <Caret Line="37" Column="23" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="menuprincipal.pas"/>
+        <Caret Line="39" Column="23" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="xcadpai.pas"/>
+        <Caret Line="51" Column="4" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="xcadpai.pas"/>
+        <Caret Line="52" Column="4" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="xcadpai.pas"/>
+        <Caret Line="53" Column="4" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="xcadpai.pas"/>
+        <Caret Line="54" Column="4" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="xcadpai.pas"/>
+        <Caret Line="65" Column="36" TopLine="51"/>
+      </Position>
+      <Position>
+        <Filename Value="xcadpai.pas"/>
+        <Caret Line="66" Column="38" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="xcadpai.pas"/>
+        <Caret Line="81" Column="39" TopLine="52"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

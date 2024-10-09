@@ -1,0 +1,5 @@
+inherited cadClienteF: TcadClienteF
+  Left = 751
+  Top = 187
+  Caption = 'Cadastro Clientes'
+end
